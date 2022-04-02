@@ -11,7 +11,7 @@ When Russian forces first invaded Ukraine, I was devastated. After the initial s
 | country  | Country                                        |
 | t_count  | How many of pieces of the equipment are listed |
 | equipment| Name of equipment                              |
-| original | This is what the original description read     |
+| original | This is how the original description read     |
 | condition| Assessed condition of equipment                |
 | numbers  | Identification number within equipment listing |
 | equipment_type| Type of equipment (i.e. T-64BV = Tanks). As new equipment is added this may need to be updated|
